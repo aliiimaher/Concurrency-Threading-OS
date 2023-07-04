@@ -2,9 +2,6 @@
 Simple concurrency project with threading in java of Shiraz university OS-Lab course.
 
 <h1 align="center">OS Lab Final Project</h1>
-<p align="center">
-  <img src="os-logo.png" alt="OS Logo" width="200" height="200">
-</p>
 
 <p align="center">
   This project is a simulation of an operating system (OS) with process management functionalities. It allows you to monitor running processes, manage their execution, and simulate resource usage.
@@ -45,7 +42,7 @@ The project provides a command-line interface to interact with the operating sys
 Choose the desired option by entering the corresponding number and follow the instructions provided by the program.
 
 <p align="center">
-  <img src="menu-screenshot.png" alt="Menu Screenshot" width="500">
+  <img src="menu.png" alt="Menu Screenshot" width="500">
 </p>
 
 ## Contributing
